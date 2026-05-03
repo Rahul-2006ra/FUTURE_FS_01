@@ -3,7 +3,7 @@ A modern, responsive personal portfolio website built to showcase my skills, pro
 This portfolio is designed as a part of the FUTURE_FS_01 task for the Full Stack Web Development track.
 
 🚀 Live Demo:-
-🔗 Live Website: Add your GitHub Pages link here
+🔗 Live Website: https://rahul-2006ra.github.io/FUTURE_FS_01/
 
 🚀 GitHub Repository:-
-🔗 GitHub Repository: Add your repo link here
+🔗 GitHub Repository: https://github.com/Rahul-2006ra/FUTURE_FS_01
